@@ -5,7 +5,6 @@
 
 <p>
 💡 <b>Computer Engineer</b> | 🤖 <b>Machine Learning Researcher</b> | 🧑‍🏫 <b>Educator</b><br>
-<i>Where logic meets creativity — and code meets curiosity.</i>
 </p>
 
 <img src="https://github.com/aylinnegahdari.png" width="150" height="150" style="border-radius:50%; border:2px solid #caa9f8; margin-top:10px;" alt="Profile photo">
