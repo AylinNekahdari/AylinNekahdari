@@ -80,13 +80,10 @@ Outside of tech, I’m an <span style="color:#caa9f8; font-weight:600;">English 
 <h2>🌱 Beyond the Screen</h2>
 
 <p>
-When I’m not coding or studying, I dive into:
+  I absolutely love <strong>reading books</strong>, especially those in the <em>romantasy</em> and <em>fantasy</em> genres. 
+  When I'm not reading, you’ll probably find me <strong>watching K-dramas</strong> or <strong>reading manhwas</strong> — I’m a huge fan of immersive stories and character-driven worlds. 
+  I also adore <strong>cats</strong> 🐾 and enjoy <strong>learning new languages</strong> as a way to connect with different cultures and perspectives.
 </p>
-<ul>
-  <li>🏺 <b>History</b> — especially the stories of Persia and ancient civilizations.</li>
-  <li>🪶 <b>Writing & content creation</b> — crafting SEO-optimized Persian texts that inform and inspire.</li>
-  <li>☕ <b>Art, books, and quiet cafés</b> — where ideas often begin.</li>
-</ul>
 
 ---
 
