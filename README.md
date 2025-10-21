@@ -40,13 +40,14 @@ Outside of tech, I’m an <span style="color:#caa9f8; font-weight:600;">English 
 <h2>🧠 Current Projects</h2>
 
 <ul align="left">
-  <li>🎮 <span class="emoji">🔬</span>
+  <li>🎮 
 <strong>Currently working on publishing a paper on </strong>
 <code>Multitask PCGRL</code>
 <span class="meta">(Procedural Content Generation via Reinforcement Learning)</span>.</li>
-  <li>🧮 Experimenting with <b>autoencoders</b> and <b>convolutional models</b> for feature representation.</li>
-  <li>🌐 Building full-stack web apps using <b>Django + PostGIS</b> for smart location-aware systems.</li>
-  <li>📊 Writing and optimizing <b>research papers</b> on AI-driven procedural generation.</li>
+  <li> <span class="emoji">🤖</span>
+<strong>Exploring Federated Learning</strong> and ways to leverage
+<em>state-of-the-art models</em> to enhance <strong>data privacy</strong> and
+<strong>system security</strong>.</li>
 </ul>
 
 ---
