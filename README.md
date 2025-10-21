@@ -16,11 +16,11 @@
 
 I began my journey in <span style="color:#b388eb; font-weight:600;">network security</span> and <span style="color:#b388eb; font-weight:600;">pentesting</span>, where I developed the mindset of both a builder and a breaker. My curiosity later led me into <span style="color:#a371f7; font-weight:600;">deep learning</span>, with a focus on <span style="color:#946cfb; font-weight:600;">computer vision</span>.
 
-<br><br>
+<br>
 
 I once thought <b>security</b> was my true passion, until I discovered <b>deep learning</b> — and realizing how the two could intertwine felt like finding the perfect balance.
 
-<br><br>
+<br>
 
 Outside of tech, I’m an <span style="color:#caa9f8; font-weight:600;">English teacher</span> who enjoys helping others learn. Whether it’s language or code, I’m driven by curiosity and the joy of solving problems.
 
