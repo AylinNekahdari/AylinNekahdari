@@ -30,10 +30,6 @@ Outside of tech, I’m an <span style="color:#caa9f8; font-weight:600;">English 
 
 </div>
 
-
-
-<p align="center"><i>“Learning is my favorite adventure — research is how I explore it.”</i></p>
-
 ---
 
 <h2>🧠 Current Projects</h2>
@@ -50,10 +46,25 @@ Outside of tech, I’m an <span style="color:#caa9f8; font-weight:600;">English 
 <h2>🧰 Tech Toolbox</h2>
 
 <div align="center">
-  
-| Languages | Frameworks | Data & Tools | Other |
-|------------|-------------|--------------|--------|
-| Python 🐍, JavaScript ⚡, SQL 💾 | Django, PyTorch, TensorFlow | PostgreSQL, NumPy, Pandas, Matplotlib | Git, Colab, LaTeX, GIS/PostGIS |
+
+<h3>Connect with me:</h3>
+<p>
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+<h3>Languages and Tools:</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Java-%23f89820?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+</p>
 
 </div>
 
