@@ -100,10 +100,6 @@ Outside of tech, I’m an <span style="color:#caa9f8; font-weight:600;">English 
 
 ---
 
-<h3 align="center">
-✨ “At the intersection of code, creativity, and curiosity — that’s where I build.” ✨
-</h3>
-
 <p align="center">
 <sub>🌸 Designed with ❤️ and curiosity by <b>Aylin Negahdari</b></sub>
 </p>
