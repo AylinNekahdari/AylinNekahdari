@@ -7,7 +7,6 @@
 💡 <b>Computer Engineer</b> | 🤖 <b>Machine Learning Researcher</b> | 🧑‍🏫 <b>Educator</b><br>
 </p>
 
-<img src="https://github.com/aylinnegahdari.png" width="150" height="150" style="border-radius:50%; border:2px solid #caa9f8; margin-top:10px;" alt="Profile photo">
 
 ---
 
@@ -15,8 +14,14 @@
 
 <p align="justify">
 I’m a computer engineer passionate about <b>AI</b>, <b>deep learning</b>, and <b>creative problem solving</b>.  
-My curiosity led me from web development with <b>Django + PostgreSQL</b> to research in <b>Procedural Content Generation via Reinforcement Learning (PCGRL)</b>.  
-I also love <b>teaching</b> — simplifying complex ideas and watching others light up with understanding.
+<p align="center" style="color:#caa9f8; font-size: 16px; font-style: italic; line-height: 1.6; margin-top: 15px;">
+✨ I started out in <span style="color:#b388eb; font-weight:600;">network security</span>, thinking that’s where I belonged. 
+Then I discovered <span style="color:#a371f7; font-weight:600;">deep learning</span> — it felt like uncovering a whole new world. 
+When I saw how <span style="color:#8b5cf6; font-weight:600;">AI</span> and 
+<span style="color:#946cfb; font-weight:600;">security</span> could come together, 
+I knew I’d found my real passion. ✨
+</p>
+
 </p>
 
 <p align="center"><i>“Learning is my favorite adventure — research is how I explore it.”</i></p>
