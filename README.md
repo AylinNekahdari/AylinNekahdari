@@ -14,8 +14,6 @@
 
 <div align="center" style="line-height:1.6;">
 
-<h2 style="color:#d8c7ff;">👋 Hello, I’m Aylin Negahdari</h2>
-
 <p style="color:#caa9f8; font-size:16px; max-width:700px;">
 I began my journey in <span style="color:#b388eb; font-weight:600;">network security</span> and <span style="color:#b388eb; font-weight:600;">pentesting</span>, where I developed the mindset of both a builder and a breaker. My curiosity later led me into <span style="color:#a371f7; font-weight:600;">deep learning</span>, with a focus on <span style="color:#946cfb; font-weight:600;">computer vision</span>. 🚀
 </p>
@@ -28,25 +26,6 @@ I once thought <b>security</b> was my true passion, until I discovered <b>deep l
 Outside of tech, I’m an <span style="color:#caa9f8; font-weight:600;">English teacher</span> who enjoys helping others learn. Whether it’s language or code, I’m driven by curiosity and the joy of solving problems. ✨
 </p>
 
-</div>
-
----
-
-<h2>🧠 Current Projects</h2>
-
-<ul align="left">
-  <li>🎮 Exploring <b>hybrid transformation strategies</b> for PCGRL-based environments.</li>
-  <li>🧮 Experimenting with <b>autoencoders</b> and <b>convolutional models</b> for feature representation.</li>
-  <li>🌐 Building full-stack web apps using <b>Django + PostGIS</b> for smart location-aware systems.</li>
-  <li>📊 Writing and optimizing <b>research papers</b> on AI-driven procedural generation.</li>
-</ul>
-
----
-
-<h2>🧰 Tech Toolbox</h2>
-
-<div align="center">
-
 <h3>Connect with me:</h3>
 <p>
   <a href="https://www.instagram.com/yourusername" target="_blank">
@@ -54,16 +33,37 @@ Outside of tech, I’m an <span style="color:#caa9f8; font-weight:600;">English 
   </a>
 </p>
 
+</div>
+
+---
+
+<h2>🧠 Current Projects</h2>
+
+<ul align="left">
+  <li>🎮 <span class="emoji">🔬</span>
+<strong>Currently working on publishing a paper on </strong>
+<code>Multitask PCGRL</code>
+<span class="meta">(Procedural Content Generation via Reinforcement Learning)</span>.</li>
+  <li>🧮 Experimenting with <b>autoencoders</b> and <b>convolutional models</b> for feature representation.</li>
+  <li>🌐 Building full-stack web apps using <b>Django + PostGIS</b> for smart location-aware systems.</li>
+  <li>📊 Writing and optimizing <b>research papers</b> on AI-driven procedural generation.</li>
+</ul>
+
+---
+
+<div align="center">
+
 <h3>Languages and Tools:</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Java-%23f89820?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/Java-%23f89820?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  
 </p>
 
 </div>
