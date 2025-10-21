@@ -26,12 +26,7 @@ I once thought <b>security</b> was my true passion, until I discovered <b>deep l
 Outside of tech, I’m an <span style="color:#caa9f8; font-weight:600;">English teacher</span> who enjoys helping others learn. Whether it’s language or code, I’m driven by curiosity and the joy of solving problems. ✨
 </p>
 
-<h3>Connect with me:</h3>
-<p>
-  <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
+
 
 </div>
 
@@ -99,9 +94,11 @@ When I’m not coding or studying, I dive into:
 
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-%23caa9f8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
   <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23946ef5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://scholar.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-%238a63d2?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://www.kaggle.com/" target="_blank"><img src="https://img.shields.io/badge/Kaggle-%23496fed?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
 </p>
 
 ---
