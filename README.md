@@ -12,17 +12,20 @@
 
 <h2>🧬 About Me</h2>
 
-<p align="justify">
-I’m a computer engineer passionate about <b>AI</b>, <b>deep learning</b>, and <b>creative problem solving</b>.  
-<p align="center" style="color:#caa9f8; font-size: 16px; font-style: italic; line-height: 1.6; margin-top: 15px;">
-✨ I started out in <span style="color:#b388eb; font-weight:600;">network security</span>, thinking that’s where I belonged. 
-Then I discovered <span style="color:#a371f7; font-weight:600;">deep learning</span> — it felt like uncovering a whole new world. 
-When I saw how <span style="color:#8b5cf6; font-weight:600;">AI</span> and 
-<span style="color:#946cfb; font-weight:600;">security</span> could come together, 
-I knew I’d found my real passion. ✨
-</p>
+<p align="justify" style="color:#d8c7ff; font-size:16px; line-height:1.6;">
+
+I began my journey in <span style="color:#b388eb; font-weight:600;">network security</span> and <span style="color:#b388eb; font-weight:600;">pentesting</span>, where I developed the mindset of both a builder and a breaker. My curiosity later led me into <span style="color:#a371f7; font-weight:600;">deep learning</span>, with a focus on <span style="color:#946cfb; font-weight:600;">computer vision</span>.
+
+<br><br>
+
+I once thought <b>security</b> was my true passion, until I discovered <b>deep learning</b> — and realizing how the two could intertwine felt like finding the perfect balance.
+
+<br><br>
+
+Outside of tech, I’m an <span style="color:#caa9f8; font-weight:600;">English teacher</span> who enjoys helping others learn. Whether it’s language or code, I’m driven by curiosity and the joy of solving problems.
 
 </p>
+
 
 <p align="center"><i>“Learning is my favorite adventure — research is how I explore it.”</i></p>
 
