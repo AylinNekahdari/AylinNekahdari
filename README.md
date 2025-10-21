@@ -12,19 +12,24 @@
 
 <h2>🧬 About Me</h2>
 
-<p align="justify" style="color:#d8c7ff; font-size:16px; line-height:1.6;">
+<div align="center" style="line-height:1.6;">
 
-I began my journey in <span style="color:#b388eb; font-weight:600;">network security</span> and <span style="color:#b388eb; font-weight:600;">pentesting</span>, where I developed the mindset of both a builder and a breaker. My curiosity later led me into <span style="color:#a371f7; font-weight:600;">deep learning</span>, with a focus on <span style="color:#946cfb; font-weight:600;">computer vision</span>.
+<h2 style="color:#d8c7ff;">👋 Hello, I’m Aylin Negahdari</h2>
 
-<br>
-
-I once thought <b>security</b> was my true passion, until I discovered <b>deep learning</b> — and realizing how the two could intertwine felt like finding the perfect balance.
-
-<br>
-
-Outside of tech, I’m an <span style="color:#caa9f8; font-weight:600;">English teacher</span> who enjoys helping others learn. Whether it’s language or code, I’m driven by curiosity and the joy of solving problems.
-
+<p style="color:#caa9f8; font-size:16px; max-width:700px;">
+I began my journey in <span style="color:#b388eb; font-weight:600;">network security</span> and <span style="color:#b388eb; font-weight:600;">pentesting</span>, where I developed the mindset of both a builder and a breaker. My curiosity later led me into <span style="color:#a371f7; font-weight:600;">deep learning</span>, with a focus on <span style="color:#946cfb; font-weight:600;">computer vision</span>. 🚀
 </p>
+
+<p style="color:#caa9f8; font-size:16px; max-width:700px;">
+I once thought <b>security</b> was my true passion, until I discovered <b>deep learning</b> — and realizing how the two could intertwine felt like finding the perfect balance. ⚖️
+</p>
+
+<p style="color:#caa9f8; font-size:16px; max-width:700px;">
+Outside of tech, I’m an <span style="color:#caa9f8; font-weight:600;">English teacher</span> who enjoys helping others learn. Whether it’s language or code, I’m driven by curiosity and the joy of solving problems. ✨
+</p>
+
+</div>
+
 
 
 <p align="center"><i>“Learning is my favorite adventure — research is how I explore it.”</i></p>
