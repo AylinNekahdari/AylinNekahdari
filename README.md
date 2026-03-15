@@ -9,9 +9,7 @@
 Federated Learning • Privacy-Preserving Machine Learning • Deep Learning
 </p>
 
-<p>
-📄 <b>Research paper under revision at IEEE Transactions on Games</b>
-</p>
+
 
 </div>
 
@@ -33,24 +31,7 @@ environments such as federated learning. I am interested in studying how modern 
 may leak sensitive information and how these vulnerabilities can be mitigated.
 </p>
 
-<p style="color:#caa9f8; font-size:16px; max-width:720px; line-height:1.6;">
-My research experience includes reinforcement learning for procedural content generation (PCGRL),
-as well as work on federated learning and representation learning.
-</p>
-
 </div>
-
----
-
-<h2>🔬 Research Interests</h2>
-
-<ul>
-<li>Privacy-Preserving Machine Learning</li>
-<li>Federated Learning</li>
-<li>Machine Learning Security</li>
-<li>Adversarial Machine Learning</li>
-<li>Reinforcement Learning</li>
-</ul>
 
 ---
 
@@ -59,36 +40,9 @@ as well as work on federated learning and representation learning.
 <p>
 <b>Multi-Objective and Multi-Task Procedural Content Generation via Reinforcement Learning</b><br>
 Aylin Nekahdari, K. Shiri, S. Samadi<br>
-<i>Submitted to IEEE Transactions on Games — Currently under revision</i>
+<i>Submitted to Scientific Report - Currently under revision</i>
 </p>
 
----
-
-<h2>🧠 Current Research</h2>
-
-<ul>
-
-<li>
-<b>Multi-Task Procedural Content Generation via Reinforcement Learning (PCGRL)</b><br>
-Developing a framework for optimizing multiple design objectives simultaneously across procedural generation tasks.
-</li>
-
-<br>
-
-<li>
-<b>Privacy Risks in Federated Learning</b><br>
-Studying information leakage in collaborative learning systems and exploring privacy-preserving techniques such as
-differential privacy and secure aggregation.
-</li>
-
-<br>
-
-<li>
-<b>Machine Learning Security</b><br>
-Currently building implementations of privacy attacks such as membership inference and gradient leakage in federated learning systems.
-</li>
-
-</ul>
 
 ---
 
