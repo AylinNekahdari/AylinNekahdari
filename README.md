@@ -1,117 +1,187 @@
-<!-- ✨ Aylin Negahdari | GitHub Profile README ✨ -->
+<!-- ✨ Aylin Nekahdari | GitHub Profile README ✨ -->
+
 <div align="center">
 
 <h1>🌸 Hi, I’m <span style="color:#d18aff;">Aylin Nekahdari</span></h1>
 
 <p>
-💡 <b>Computer Engineer</b> | <b>Machine Learning & AI Security Researcher</b> | 🧑‍🏫 <b>Federated Learning • Privacy-Preserving Machine Learning • Deep Learning</b><br>
+💡 <b>Computer Engineer</b> | <b>Machine Learning & AI Security Researcher</b><br>
+Federated Learning • Privacy-Preserving Machine Learning • Deep Learning
 </p>
 
-
----
-
-<h2>🧬 About Me</h2>
-
-<div align="center" style="line-height:1.6;">
-
-<p style="color:#caa9f8; font-size:16px; max-width:700px;">
-I am a computer engineering graduate interested in the intersection of machine learning and security.
-My early experience in network security and penetration testing shaped my perspective on adversarial
-thinking, system robustness, and the importance of protecting sensitive data.
+<p>
+📄 <b>Research paper under revision at IEEE Transactions on Games</b>
 </p>
-
-<p style="color:#caa9f8; font-size:16px; max-width:700px;">
-
-My current focus is on machine learning systems, particularly privacy risks in collaborative learning
-environments such as federated learning. I am interested in studying how modern deep learning models
-may leak sensitive information and how these vulnerabilities can be mitigated.
-
-
-
-</p>
-
-
-<p style="color:#caa9f8; font-size:16px; max-width:700px;">
-My research experience includes reinforcement learning for procedural content generation (PCGRL),
-as well as work on federated learning and representation learning.
-</p>
-
-
 
 </div>
 
 ---
 
-<h2>🧠 Current Projects</h2>
+<div align="center">
 
-<ul align="left">
-  <li>🎮 
-<strong>Currently working on publishing a paper on </strong>
-<code>Multitask PCGRL</code>
-<span class="meta">(Procedural Content Generation via Reinforcement Learning)</span>.</li>
-  <li> <span class="emoji">🤖</span>
-<strong>Exploring Federated Learning</strong> and ways to leverage
-<em>state-of-the-art models</em> to enhance <strong>data privacy</strong> and
-<strong>system security</strong>.</li>
+<h2>🧬 About Me</h2>
+
+<p style="color:#caa9f8; font-size:16px; max-width:720px; line-height:1.6;">
+I am a computer engineering graduate interested in the intersection of machine learning and security.
+My early experience in network security and penetration testing shaped my perspective on adversarial
+thinking, system robustness, and the importance of protecting sensitive data.
+</p>
+
+<p style="color:#caa9f8; font-size:16px; max-width:720px; line-height:1.6;">
+My current focus is on machine learning systems, particularly privacy risks in collaborative learning
+environments such as federated learning. I am interested in studying how modern deep learning models
+may leak sensitive information and how these vulnerabilities can be mitigated.
+</p>
+
+<p style="color:#caa9f8; font-size:16px; max-width:720px; line-height:1.6;">
+My research experience includes reinforcement learning for procedural content generation (PCGRL),
+as well as work on federated learning and representation learning.
+</p>
+
+</div>
+
+---
+
+<h2>🔬 Research Interests</h2>
+
+<ul>
+<li>Privacy-Preserving Machine Learning</li>
+<li>Federated Learning</li>
+<li>Machine Learning Security</li>
+<li>Adversarial Machine Learning</li>
+<li>Reinforcement Learning</li>
+</ul>
+
+---
+
+<h2>📄 Publication</h2>
+
+<p>
+<b>Multi-Objective and Multi-Task Procedural Content Generation via Reinforcement Learning</b><br>
+Aylin Nekahdari, K. Shiri, S. Samadi<br>
+<i>Submitted to IEEE Transactions on Games — Currently under revision</i>
+</p>
+
+---
+
+<h2>🧠 Current Research</h2>
+
+<ul>
+
+<li>
+<b>Multi-Task Procedural Content Generation via Reinforcement Learning (PCGRL)</b><br>
+Developing a framework for optimizing multiple design objectives simultaneously across procedural generation tasks.
+</li>
+
+<br>
+
+<li>
+<b>Privacy Risks in Federated Learning</b><br>
+Studying information leakage in collaborative learning systems and exploring privacy-preserving techniques such as
+differential privacy and secure aggregation.
+</li>
+
+<br>
+
+<li>
+<b>Machine Learning Security</b><br>
+Currently building implementations of privacy attacks such as membership inference and gradient leakage in federated learning systems.
+</li>
+
+</ul>
+
+---
+
+<h2>🚀 Selected Projects</h2>
+
+<ul>
+
+<li>
+<b>Federated Learning Simulation using Graph Attention Networks</b><br>
+Simulated collaborative training across heterogeneous clients and explored privacy–accuracy trade-offs.
+</li>
+
+<br>
+
+<li>
+<b>Vision Transformer Implementation</b><br>
+Implemented the Vision Transformer architecture from scratch for image classification tasks.
+</li>
+
+<br>
+
+<li>
+<b>Beta-VAE for Network Traffic Representation Learning</b><br>
+Learned compact latent representations for encrypted network traffic.
+</li>
+
+<br>
+
+<li>
+<b>Pix2Pix GAN Implementation</b><br>
+Implemented image-to-image translation using U-Net generator and PatchGAN discriminator.
+</li>
+
+</ul>
+
+<p>More implementations and experiments can be found in my repositories.</p>
+
+---
+
+<div align="center">
+
+<h2>🛠 Languages and Tools</h2>
+
+<p>
+<img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Java-%23f89820?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+</p>
+
+</div>
+
+---
+
+<h2>🎯 Research Goals</h2>
+
+<ul>
+<li>Investigate privacy vulnerabilities in modern machine learning systems</li>
+<li>Reproduce and analyze research papers in machine learning security</li>
+<li>Develop implementations of privacy attacks and defenses in federated learning</li>
+<li>Contribute to research in trustworthy and privacy-preserving AI</li>
 </ul>
 
 ---
 
 <div align="center">
 
-<h3>Languages and Tools:</h3>
-<p>
-  <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/Java-%23f89820?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  
-</p>
-
-</div>
-
----
-
-<h2>🚀 Learning & Goals</h2>
-
-<ul>
-  <li>🔍 Deepen my understanding of <b>representation learning</b> and <b>RL-based generation</b>.</li>
-  <li>🧩 Reproduce academic ML papers and share implementations.</li>
-  <li>📚 Build a strong research profile for future graduate work abroad.</li>
-  <li>🎓 Continue teaching — connecting <b>AI</b> and <b>education</b> through clarity and creativity.</li>
-</ul>
-
----
-
-<h2>🌱 Beyond the Screen</h2>
-
-<p>
-  I absolutely love <strong>reading books</strong>, especially those in the <em>romantasy</em> and <em>fantasy</em> genres. 
-  When I'm not reading, you’ll probably find me <strong>watching K-dramas</strong> or <strong>reading manhwas</strong> — I’m a huge fan of immersive stories and character-driven worlds. 
-  I also adore <strong>cats</strong> 🐾 and enjoy <strong>learning new languages</strong> as a way to connect with different cultures and perspectives.
-</p>
-
----
-
 <h2>💌 Connect with Me</h2>
 
-<p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-%23caa9f8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23946ef5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://scholar.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-%238a63d2?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+<p>
+
+<a href="mailto:aylinnegahdari1380@gmail.com">
+<img src="https://img.shields.io/badge/Email-%23caa9f8?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/aylin-negahdari-694863269/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%23946ef5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://scholar.google.com/" target="_blank">
+<img src="https://img.shields.io/badge/Google_Scholar-%238a63d2?style=for-the-badge&logo=google-scholar&logoColor=white">
+</a>
+
 </p>
+
+</div>
 
 ---
 
 <p align="center">
-<sub>🌸 Designed with ❤️ and curiosity by <b>Aylin Negahdari</b></sub>
+<sub>🌸 Designed with ❤️ and curiosity by <b>Aylin Nekahdari</b></sub>
 </p>
-
-</div>
